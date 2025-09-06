@@ -6,6 +6,10 @@
   <img src="https://i.imgur.com/jhZo5UI.png" width="200"/>
 </p>
 
+Dedicated to the memory of Joe Ipson (@m0ngr31) <3
+
+THIS PROJECT IS LOOKING FOR A MAINTAINER. If interested, please reach out to the [Jellyfin team on Matrix](https://jellyfin.org/contact).
+
 ## About
 A stylish, cross-platform desktop client for listening to music from a Jellyfin server. Inspired by Plexamp.
 
